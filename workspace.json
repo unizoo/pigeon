@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "pigeon-web": "apps/pigeon-web",
+    "pigeon-web-e2e": "apps/pigeon-web-e2e"
+  }
+}
